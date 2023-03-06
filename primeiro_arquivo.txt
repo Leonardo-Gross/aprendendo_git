@@ -1,0 +1,12 @@
+Git é um sistema de controle de versões, é muito utilizado para desenvolvimento de software, mas também pode ser usado para registrar histórico de edições de qualquer tipo de arquivo.
+
+Ele nos permite trabalhaar simultaneamente com outras pessoas, manter um histórico das alterações feitas e entre outras funcionalidades.
+
+
+Principais comandos:
+
+git add. (adicionar todos os arquivos modificados ou criados no seu commit)
+git status (mostra o estado em que se econtra cada arquivo criado ou modificado)
+git diff (mostra as mudanças feitas nos arquivos)
+git log (histórico de commits)
+git clone url (clona o repositório)
